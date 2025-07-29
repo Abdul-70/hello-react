@@ -1,0 +1,18 @@
+{
+  "name": "hello_react",
+  "version": "1.0.0",
+  "description": "this is hello-react first app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "hello-react"
+  ],
+  "author": "Abdul Rhim",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
