@@ -1,0 +1,2 @@
+let header=React.createElement("div",{id:"parant"},React.createElement("",{},[React.createElement("div",{id:"child1"},[React.createElement("h1",{},"hello i am h1 heading from child1"),React.createElement("h2",{},"hello i am h2 heading from child1")]),React.createElement("div",{id:"child2"},[React.createElement("h1",{},"hello i am h1 heading from child2"),React.createElement("h2",{},"hello i am h2 heading from child2")])])),root=ReactDOM.createRoot(document.getElementById("root"));root.render(header);
+//# sourceMappingURL=hello_react.92a0f136.js.map

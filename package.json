@@ -2,8 +2,9 @@
   "name": "hello_react",
   "version": "1.0.0",
   "description": "this is hello-react first app",
-  "main": "app.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "keywords": [
@@ -14,5 +15,10 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+    
   }
 }

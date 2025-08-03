@@ -1,3 +1,3 @@
 # hello-react
 
-# hello react first react project
+# this is primary step of food order app

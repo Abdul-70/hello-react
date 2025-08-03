@@ -1,0 +1,54 @@
+.appLogo img{
+    width: 100px;
+    padding: 4px;
+    
+}
+
+.header{
+    display: flex;
+    border: 1px solid black;
+    height: 110px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.navItem  ul {
+  
+    display: flex;
+    margin-right: 100px;
+}
+
+.navItem ul li{
+    font-size: 20px;
+    list-style: none;
+    margin: 10px;
+    
+}
+
+.card-container{
+       display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.card{
+ 
+    height: 350px;
+    width: 200px;
+  
+    background-color: #f0f0f0;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.card:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.card img{
+    width: 190px;
+    height: 150px;
+}
+
